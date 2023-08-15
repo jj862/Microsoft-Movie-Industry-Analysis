@@ -49,3 +49,8 @@ Movie Option #3
 
 
 For any additional questions, please contact **Jonah Devoy** at Jonah.devoy@yahoo.com.
+
+
+
+# Profit Prediction
+The second part of this project will be to predict a movie's profit and gross by entering movie features 
